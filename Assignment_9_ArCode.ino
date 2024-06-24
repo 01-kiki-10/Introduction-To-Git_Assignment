@@ -2,6 +2,9 @@ const int buttonPin = 9;    // The number of the pushbutton pin (PB1)
 const int ledPin1 = 6;      // The number of the first LED pin
 const int ledPin2 = 7;      // The number of the second LED pin
 const int ledPin3 = 8;      // The number of the third LED pin
+//Camerons comment
+
+
 
 void setup() {
   // Initialize the LED pins as outputs:
